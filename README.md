@@ -1,2 +1,0 @@
-# Kiaan Maharaj Portfolio
-
