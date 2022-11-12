@@ -1,3 +1,3 @@
 # Kiaan Maharaj Portfolio
 
-kiaanonthehub.github.io/portfolio
+www.kiaanonthehub.github.io/portfolio
