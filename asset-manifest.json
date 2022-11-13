@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kiaanonthehub-portfolio/static/css/main.77ebfd45.chunk.css",
+    "main.js": "/kiaanonthehub-portfolio/static/js/main.9e39cd75.chunk.js",
+    "main.js.map": "/kiaanonthehub-portfolio/static/js/main.9e39cd75.chunk.js.map",
+    "runtime-main.js": "/kiaanonthehub-portfolio/static/js/runtime-main.06a14a74.js",
+    "runtime-main.js.map": "/kiaanonthehub-portfolio/static/js/runtime-main.06a14a74.js.map",
+    "static/js/2.3d351765.chunk.js": "/kiaanonthehub-portfolio/static/js/2.3d351765.chunk.js",
+    "static/js/2.3d351765.chunk.js.map": "/kiaanonthehub-portfolio/static/js/2.3d351765.chunk.js.map",
+    "index.html": "/kiaanonthehub-portfolio/index.html",
+    "static/css/main.77ebfd45.chunk.css.map": "/kiaanonthehub-portfolio/static/css/main.77ebfd45.chunk.css.map",
+    "static/js/2.3d351765.chunk.js.LICENSE.txt": "/kiaanonthehub-portfolio/static/js/2.3d351765.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06a14a74.js",
+    "static/js/2.3d351765.chunk.js",
+    "static/css/main.77ebfd45.chunk.css",
+    "static/js/main.9e39cd75.chunk.js"
+  ]
+}
