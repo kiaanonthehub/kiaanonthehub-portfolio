@@ -7,9 +7,8 @@ const about = {
   name: 'Kiaan Maharaj',
   role: 'Software Developer | Graduate ',
   description:
-    'Why Should you hire me?' +
-    '\n Hi, I am Kiaan Maharaj a Graduate in Computer Science majoring in Application Development. I have 3 years of student development experince and 3 months of industry experince as a Junior Software Developer. In my free time outside campus , I keep myself busy developing and collaborating on side projects or learning new skills, to add my to tech-stack. I have published two production applications on the Google Play Store. I think I would be a unique individual and an asset with loads of potential and growth in this graduate program. I believe , that by you affording me this opportunity to come on board, we can make great things happen together. I am never affraid to take on a challenge and I think youll should push me to do my best and watch me deliver as expected. ',
-  resume:
+    ' I am a versatile Software Developer equally comfortable creating solutions for on-premises or cloud-based deployments. • Exploits Agile development methodologies to rapidly iterate and improve products. Consistent provider of useful and actionable input on all creator of efficient code and exciting user experiences. • Equipped with great coding, debugging and project management abilities. • Accomplishes project goals consistently with elegant, scalable code. • Works great with team members under Agile and Scrum frameworks. •Eager to elevate ongoing development projects or create novel software solutions geared towards driving increased user ship.',
+    resume:
     'https://github.com/kiaanonthehub/resume/blob/main/CV%20of%20Mr%20K%20Maharaj.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/kiaan-maharaj-b991341a7/',
