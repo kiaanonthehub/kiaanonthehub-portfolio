@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kiaanonthehub.github.io/kiaanonthehub-portfolio",
+  "homepage": "https://kiaanonthehub.github.io/kiaanonthehub-portfolio/",
   "dependencies": {
     "-": "0.0.1",
     "@material-ui/core": "^4.12.3",
