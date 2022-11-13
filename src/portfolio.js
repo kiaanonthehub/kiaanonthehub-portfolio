@@ -7,8 +7,8 @@ const about = {
   name: 'Kiaan Maharaj',
   role: 'Software Developer | Graduate ',
   description:
-    ' I am a versatile Software Developer equally comfortable creating solutions for on-premises or cloud-based deployments. • Exploits Agile development methodologies to rapidly iterate and improve products. Consistent provider of useful and actionable input on all creator of efficient code and exciting user experiences. • Equipped with great coding, debugging and project management abilities. • Accomplishes project goals consistently with elegant, scalable code. • Works great with team members under Agile and Scrum frameworks. •Eager to elevate ongoing development projects or create novel software solutions geared towards driving increased user ship.',
-    resume:
+    ' • I am a versatile Software Developer equally comfortable creating solutions for on-premises or cloud-based deployments.• I Exploit the Agile development methodology to rapidly iterate and improve products. • I am a consistent provider of useful and actionable input on all creator of efficient code and exciting user experiences. • Equipped with great coding, debugging and project management abilities. • Accomplishes project goals consistently with elegant, scalable code. • Works great with team members under Agile and Scrum frameworks. • Eager to elevate ongoing development projects or create novel software solutions geared towards driving increased user ship.',
+  resume:
     'https://github.com/kiaanonthehub/resume/blob/main/CV%20of%20Mr%20K%20Maharaj.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/kiaan-maharaj-b991341a7/',
