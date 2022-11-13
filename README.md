@@ -1,5 +1,5 @@
 # Portfoilio of Kiaan Maharaj
 
-### Links :
--Netlify : https://kiaanmaharaj-portfolio.netlify.app/  
--Vercel : https://kiaanonthehub-portfolio.vercel.app/
+### Production link to hosted portfolio :
+- Netlify : https://kiaanmaharaj-portfolio.netlify.app/  
+- Vercel : https://kiaanonthehub-portfolio.vercel.app/
