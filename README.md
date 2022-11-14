@@ -6,7 +6,7 @@
 
 ### Run
  - Open the terminal and run the command 
- >>> 'npm i' 
+ >>> npm i 
  
  - To run the project locally on your localhost , enter into the terminal
- >>> 'npm run start' 
+ >>> npm run start 
