@@ -9,7 +9,7 @@ const about = {
   description:
     '• Hi , I am Kiaan. • I am a versatile Software Developer equally comfortable creating solutions for on-premises or cloud-based deployments. • I Exploit Agile development methodologies to rapidly iterate and improve products. Consistent provider of useful and actionable input on all creator of efficient code and exciting user experiences. • I am Equipped with great coding, debugging and project management abilities. • I Accomplish project goals consistently with elegant, scalable code. • I work great with team members under Agile and Scrum frameworks. • I am Eager to elevate ongoing development projects or create novel software solutions geared towards driving increased user ship. •I believe that if you give me this opportunity I will exceed your expectations and produce my finest work. • Id like to advance with the company and contribute to a common goal.',
   resume:
-    'https://github.com/kiaanonthehub/resume/blob/main/CV%20of%20Mr%20K%20Maharaj.pdf',
+    'https://github.com/kiaanonthehub/resume/blob/main/Curriculum%20Vitae%20-%20Mr.%20Kiaan%20Maharaj.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/kiaan-maharaj-b991341a7/',
     github: 'https://github.com/kiaanonthehub',
